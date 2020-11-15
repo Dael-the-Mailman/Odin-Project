@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### Tutorial Video
 
 (React Tutorial)[https://youtu.be/iZhV0bILFb0]
@@ -57,3 +58,6 @@ Course Exclusive
 21. Movie DB
 22. Hacker News
 23. Quiz
+=======
+"# React-Projects" 
+>>>>>>> f4c6c684b279b5e5bd16e48b624971ed64faba3f
